@@ -13,9 +13,8 @@ Hueeng](http://mazassumnida.wtf/api/generate_badge?boj=zzxx3730)](https://solved
 
   <hr/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHueeng&layout=Demo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHueeng&layout=compact&theme=tokyonight)
 
-  
   
 </div>
 
