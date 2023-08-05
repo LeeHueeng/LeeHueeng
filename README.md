@@ -5,13 +5,10 @@
   <hr/>
   
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHueeng&show_icons=true&theme=cobalt)
-
-<hr/>
   
 [![Solved.ac
 Hueeng](http://mazassumnida.wtf/api/generate_badge?boj=zzxx3730)](https://solved.ac//)
 
-  <hr/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHueeng&layout=compact&theme=tokyonight)
 
