@@ -1,19 +1,13 @@
 <div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=Rect&text=Hueeng&color=timeGradient)
-
+  <img src="https://capsule-render.vercel.app/api?type=Rect&text=Hueeng&color=timeGradient" alt="header">
   <hr/>
-  
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHueeng&show_icons=true&theme=cobalt)
-  
-[![Solved.ac
-Hueeng](http://mazassumnida.wtf/api/generate_badge?boj=zzxx3730)](https://solved.ac//)
-
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHueeng&layout=compact&theme=tokyonight)
-
-  
+  <div style="display: flex;">  
+    <img src="https://github-readme-stats.vercel.app/api?username=LeeHueeng&show_icons=true&theme=cobalt" alt="K-Junyyy's GitHub stats">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=zzxx3730" alt="Solved.ac badge">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHueeng&layout=compact&theme=tokyonight" alt="Top Languages">
+  </div>
 </div>
+
 
 
 
