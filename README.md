@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Rect&text=Hueeng&color=timeGradient" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=Rect&text=Pueeng&color=timeGradient" alt="header">
   <hr/>
   <div style="display: flex;">  
     <img src="https://github-readme-stats.vercel.app/api?username=LeeHueeng&show_icons=true&theme=cobalt" alt="K-Junyyy's GitHub stats">
