@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Rect&text=프론트엔드%20개발자&color=timeGradient&height=150&fontSize=90&fontAlign=70" alt="헤더 이미지">
+  <img src="https://capsule-render.vercel.app/api?type=Rect&text=프론트개발&color=timeGradient&height=150&fontSize=90&fontAlign=70" alt="헤더 이미지">
   <hr/>
   <h2>👋 안녕하세요, 열정적인 프론트엔드 개발자입니다</h2>
   <p>JavaScript, TypeScript, Node.js, React, Next.js에 능숙하며, 창의적으로 문제를 해결하기 위해 노력하는 개발자입니다.</p>
